@@ -1,0 +1,4 @@
+
+    background-repeat:no-repeat;    /*图片适应窗口大小，进行平铺*/
+    background-attachment: fixed;    /*图片相对于浏览器固定*/
+    background-origin: border-box;    /*从边框区域显示*/
